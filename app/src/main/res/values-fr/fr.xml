@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Panier Vert</string>
+    <string name="full_name_hint">Nom complet</string>
+    <string name="email_hint">Adresse e-mail</string>
+    <string name="phone_hint">Téléphone</string>
+    <string name="province_hint">Province</string>
+    <string name="postal_code_hint">Code postal</string>
+    <string name="address_hint">Rue Nº Bâtiment Nº Étage</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="confirm_password_hint">Confirmer le mot de passe</string>
+    <string name="login_button">Se connecter</string>
+    <string name="create_account_button">Créer un compte</string>
+    <string name="register_button">S inscrire</string>
+    <string name="back_button">Retour</string>
+    <string name="accept_terms">J accepte les termes et conditions</string>
+    <string name="terms_and_conditions">Termes et conditions</string>
+</resources>

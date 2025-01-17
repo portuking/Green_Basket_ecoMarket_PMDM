@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Green Basket</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="email_hint">Email Address</string>
+    <string name="phone_hint">Phone</string>
+    <string name="province_hint">Province</string>
+    <string name="postal_code_hint">Postal Code</string>
+    <string name="address_hint">Street Nº Building Nº Floor</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_button">Log In</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="register_button">Register</string>
+    <string name="back_button">Back</string>
+    <string name="accept_terms">I accept the Terms and Conditions</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+</resources>
+
